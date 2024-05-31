@@ -1,0 +1,27 @@
+[
+
+    {
+        "id": 1,
+        "maxPeople": 2
+    },
+    {
+        "id": 2,
+        "maxPeople": 2
+    },
+    {
+        "id": 3,
+        "maxPeople": 4
+    },
+    {
+        "id": 4,
+        "maxPeople": 4
+    },
+    {
+        "id": 5,
+        "maxPeople": 6
+    }
+
+
+
+]
+
